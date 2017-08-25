@@ -1,6 +1,3 @@
-/*-----------------------
-* Submitted by: 036016368
------------------------*/
 package ex1;
 
 import java.io.FileReader;
